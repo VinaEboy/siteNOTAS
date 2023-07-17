@@ -1,0 +1,23 @@
+Código,Disciplinas,PRQ
+CQ211 ,Química Geral ,-
+CQ212 ,Química Geral Experimental ,-
+CQ213 ,História da Química ,-
+CQ248 ,Filosofia da Ciência para Química ,-
+CQ256 ,Seminários de Educação Química ,-
+CM300 ,Introdução ao Cálculo ,-
+ET170 ,Diversidade: Étnico Racial Gênero e Sexualidade ,-
+CQ214 ,Química Analítica I ,-
+CM301 ,Cálculo em uma variável real ,CM300
+CQ239 ,Físico-Química Experimental I ,-
+CQ215 ,Química Analítica II ,CQ214
+CQ231 ,Química Orgânica I ,CQ211
+- ,Disciplina Optativa ,-
+CQ232 ,Química Orgânica II ,CQ231
+ET173 ,Educação Ambiental ,-
+CF109 ,Física I ,-
+CQ217 ,Química Analítica Instrumental II ,CQ214
+CQ230 ,Espectrometria I ,CQ231
+CQ235 ,Química Orgânica Experimental I ,CQ232
+CQ233 ,Química Orgânica III ,CQ232
+BQ069 ,Introdução à Bioquímica ,-
+TQ177 ,Processos Químicos Inorgânicos,-

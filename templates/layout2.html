@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title> SIGA 2.0 </title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='estilo2.css') }}">
+    </head>
+    <body>
+        <form action="/" method="get">
+        <img src="{{ url_for('static', filename='images/logo2.PNG') }}" width="100%" alt="Logo do Siga 2.0">
+        <br>
+        <input type="submit" value="Voltar" style="width: 200px;">
+        </form>
+        {% block body %}{% endblock %}
+    </body>
+</html>

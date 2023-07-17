@@ -1,0 +1,33 @@
+Código,Disciplinas,PRQ
+CM303 ,Introdução à Geometria Analítica e Álgebra Linear ,-
+CE009 ,Introdução à Estatística ,-
+CQ238 ,Físico-Química I ,CM300
+CQ222 ,Química Inorgânica II ,CQ221
+CM302 ,Cálculo em várias variáveis reais ,CM301
+CQ223 ,Química Inorgânica III ,CQ221
+CQ243 ,Físico-Química IV ,CM300 + CQ238
+CQ244 ,Físico-Química Experimental IV ,CQ243
+CQ240 ,Físico-Química II ,CQ238 + CM301
+CQ224 ,Química Inorgânica IV ,CQ221
+TQ178 ,Higiene e Segurança ,-
+CF110 ,Física II ,-
+CQ241 ,Físico-Química III ,CQ240 ou CQ302
+CQ242 ,Físico-Química Experimental III ,CQ241
+CQ225 ,Química Inorgânica V  ,CQ223
+CQ226 ,Química Inorgânica Experimental I ,CQ221 + CQ222
+GC154 ,Geologia e Mineralogia ,-
+CF111 ,Física III ,-
+-, Disciplina Optativa ,-
+CQ227 ,Química Inorgânica Experimental II ,CQ226
+CQ234 ,Química Orgânica IV  ,CQ233
+CQ245 ,Físico-Química V ,CQ238
+CQ297 ,Operações Unitárias I  ,-
+CQ246 ,Química Quântica ,CQ240 + CM303
+CQ298 ,Operações Unitárias II ,-
+CEG001 ,Desenho Técnico ,-
+-, Disciplina Optativa ,-
+CQ218 ,Química Ambiental,-
+CQ219 ,Cromatografia,CQ217 + CQ231
+CQ247 ,Espectroscopia Óptica,CQ246
+CQ300 ,Estágio Supervisionado Obrigatório,-
+-, Disciplina Optativa ,-

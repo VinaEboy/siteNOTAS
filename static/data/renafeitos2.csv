@@ -1,0 +1,40 @@
+Código,Disciplinas,PRQ
+CQ211 ,Química Geral ,-
+CQ212 ,Química Geral Experimental ,-
+CQ213 ,História da Química ,-
+CQ248 ,Filosofia da Ciência para Química ,-
+CQ256 ,Seminários de Educação Química ,-
+CM300 ,Introdução ao Cálculo ,-
+ET170 ,Diversidade: Étnico Racial Gênero e Sexualidade ,-
+CQ221 ,Química Inorgânica I ,-
+CQ214 ,Química Analítica I ,-
+CM301 ,Cálculo em uma variável real ,CM300
+CM303 ,Introdução à Geometria Analítica e Álgebra Linear ,-
+CE009 ,Introdução à Estatística ,-
+CQ238 ,Físico-Química I ,CM300
+CQ239 ,Físico-Química Experimental I ,-
+CQ222 ,Química Inorgânica II ,CQ221
+CQ215 ,Química Analítica II ,CQ214
+CQ231 ,Química Orgânica I ,CQ211
+- ,Disciplina Optativa ,-
+CQ216 ,Química Analítica Instrumental I ,CQ214
+CQ232 ,Química Orgânica II ,CQ231
+CQ244 ,Físico-Química Experimental IV ,CQ243
+ET173 ,Educação Ambiental ,-
+CF109 ,Física I ,-
+CQ217 ,Química Analítica Instrumental II ,CQ214
+CQ230 ,Espectrometria I ,CQ231
+CQ235 ,Química Orgânica Experimental I ,CQ232
+TQ178 ,Higiene e Segurança ,-
+CF110 ,Física II ,-
+CQ233 ,Química Orgânica III ,CQ232
+CQ226 ,Química Inorgânica Experimental I ,CQ221 + CQ222
+CF111 ,Física III ,-
+-, Disciplina Optativa ,-
+CQ227 ,Química Inorgânica Experimental II ,CQ226
+BQ069 ,Introdução à Bioquímica ,-
+CEG001 ,Desenho Técnico ,-
+-, Disciplina Optativa ,-
+CQ218 ,Química Ambiental,-
+TQ177 ,Processos Químicos Inorgânicos,-
+-, Disciplina Optativa ,-

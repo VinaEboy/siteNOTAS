@@ -1,0 +1,68 @@
+CQ211 ,Química Geral,-
+CQ212 ,Química Geral Experimental,- 
+CQ213 ,História da Química ,- 
+CQ248 ,Filosofia da Ciência para Química ,-
+CQ256 ,Seminários de Educação Química ,-
+CM300 ,Introdução ao Cálculo ,-
+ET170 ,Diversidade: Étnico Racial Gênero e Sexualidade ,-
+
+CQ221 ,Química Inorgânica I ,-
+CQ214 ,Química Analítica I ,-
+CM301 ,Cálculo em uma variável real  ,CM300 
+CM303 ,Introdução à Geometria Analítica e Álgebra Linear ,-
+
+CE009 ,Introdução à Estatística ,-
+CQ238 ,Físico-Química I  ,CM300 ,-
+CQ239 ,Físico-Química Experimental I ,-
+CQ238
+CQ222 ,Química Inorgânica II ,CQ221 
+CQ215 ,Química Analítica II  ,CQ214 
+CQ231 ,Química Orgânica I  ,CQ211 
+CM302 ,Cálculo em várias variáveis reais ,CM301
+Disciplina Optativa 
+
+CQ217 ou CQ216 ,Química Analítica Instrumental II ou Química Analítica Instrumental I ,CQ214 
+CQ223 ,Química. Inorgânica III ,CQ221
+CQ232 ,Química Orgânica II  ,CQ231
+CQ243 ,Físico-Química IV  ,CM300+CQ238 
+CQ244 ,Físico-Química Experimental IV ,CQ243
+ET173 ,Educação Ambiental ,-
+CF109 ,Física I ,-
+
+CQ217 ou CQ216 ,Química Analítica Instrumental II ou Química Analítica Instrumental I ,CQ214
+CQ240 ,Físico-Química II  ,CQ238 + CM301
+CQ224 ,Química Inorgânica IV ,CQ221
+CQ230 ,Espectrometria I ,CQ231
+CQ235 ,Química Orgânica Experimental I ,CQ232
+TQ178 ,Higiene e Segurança  ,-
+CF110 ,Física II ,-
+
+CQ241 ,Físico-Química III ,CQ240 ou CQ302
+CQ242 ,Físico-Química Experimental III ,CQ241
+CQ225 ,Química Inorgânica V  ,CQ223
+CQ233 ,Química Orgânica III ,CQ232
+CQ226 ,Química Inorgânica Experimental I ,CQ221+ CQ222 
+GC154 ,Geologia e Mineralogia ,- 
+CF111 ,Física III ,-
+
+CQ227 ,Química Inorgânica Experimental II ,CQ226
+CQ234 ,Química Orgânica IV  ,CQ233
+CQ245 ,Físico-Química V ,CQ238
+CQ297 ,Operações Unitárias I  ,-
+BQ069 ,Introdução à Bioquímica ,- 
+CF112 ,Física IV ,-
+
+CQ236 ,Química Orgânica Experimental II ,CQ233 + CQ235
+CQ246 ,Química Quântica ,CQ240 + CM303
+CQ298 ,Operações Unitárias II ,- 
+TQ176 ,Processos Químicos Orgânicos ,-
+CEG001 ,Desenho Técnico ,-
+CF300 ,Laboratório de Física Moderna ,- 
+-, Disciplina Optativa ,-
+
+CQ218 ,Química Ambiental 
+CQ219 ,Cromatografia  ,CQ217 + CQ231
+CQ247 ,Espectroscopia Óptic ,CQ246
+TQ177 ,Processos Químicos Inorgânicos ,- 
+CQ300 ,Estágio Supervisionado Obrigatório ,-
+-, Disciplina Optativa ,-
